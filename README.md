@@ -22,7 +22,7 @@ Mis proyectos más destacados:
 
 
 
-- Prototipo Farmacia FastFarma: Debido a que era un proyecto parcial, realizamos correcciones de diseño a la página principal (correcciones sobre temas tratados en las clases, enfocados en Leyes de Gestalt y Colorimetría.
+- Prototipo Farmacia FastFarma: Debido a que era un proyecto parcial, realizamos correcciones de diseño a la página principal estas correcciones fueron sobre temas tratados en las clases, enfocados en Leyes de Gestalt y Colorimetría.
 - Proyecto Agencia de Viajes: En este proyecto se realizó la implementación del código en lenguaje Java, con una BD realizada en SQL Developer. Se realizaron las interfaces para registro de usuarios, reservas y distintas funcionalidades más. 
 
 
@@ -30,7 +30,7 @@ Mis proyectos más destacados:
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en odalis.verag@ug.edu.ec. También puedes encontrarme en 
-Facebook: https://www.facebook.com/odalis.verag23/
+Si desea contactarme, puedes hacerlo a través de mi correo electrónico en odalis.verag@ug.edu.ec. 
+También puedes encontrarme en Facebook: https://www.facebook.com/odalis.verag23/
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
