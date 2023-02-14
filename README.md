@@ -30,7 +30,7 @@ Mis proyectos más destacados:
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en odalis.verag@ug.edu.ec. También puede encontrarme en 
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en odalis.verag@ug.edu.ec. También puedes encontrarme en 
 Facebook: https://www.facebook.com/odalis.verag23/
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
